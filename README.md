@@ -69,7 +69,7 @@ module.exports = [{
 
 执行命令
 ``` bash
-npm start
+npm start 
 ```
 
 ## 更新内容
