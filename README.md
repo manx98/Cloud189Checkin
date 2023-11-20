@@ -33,7 +33,7 @@ Node.js 14+
 ```
 ### 克隆项目
 ```bash
-git clone https://github.com/wes-lin/Cloud189Checkin.git
+git clone  https://github.com/wes-lin/Cloud189Checkin.git
 ```
 ```bash
 cd Cloud189Checkin
